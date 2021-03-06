@@ -1,2 +1,2 @@
-# hello-world
-OwO GitHub Python 3
+# Hello World
+GitHub Python 3
